@@ -1,0 +1,238 @@
+@media screen and (max-width: 2000px) {
+
+    .container.is {
+        width:100%;
+    }
+    
+    .container {
+        width: 100%;
+    }
+    
+    .forms__bls{
+        width: 100%;
+    }
+    
+    footer{
+        width: 100%;
+    }
+    
+    .slid__img {
+        width: 64%;
+        margin-right: 0px;
+    }
+    
+    .big__slids__is.slick-slide {
+        margin: 0 27px 0 0;
+    }
+    
+    .consul__left {
+        width: 40%;
+    }
+    
+    .consul__right {
+        width: 60%;
+    }
+    
+    .calog__bls {
+        width: 23.7%;
+    }
+    
+    .catalog__wrap__bls {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .slick-prev {
+        left: 165px!important;
+        z-index: 999;
+    }
+    
+    .forms__is {
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    .container.is{
+        width: 100%;
+    }
+    
+    .ecspert__right {
+        width: 50%;
+    }
+    
+    .catalog__bls__ico__wrap {
+        width: 100%;
+    }
+    
+    }
+    
+    @media screen and (max-width: 1700px) {
+    
+    .info__left {
+        width: 30%;
+        margin-right: 100px;
+    }
+    
+    .info__right {
+        display: flex;
+        width: 55%;
+    }
+    
+    .text__inter {
+        width: 58%;
+    }
+    
+    }
+    
+    @media screen and (max-width: 1440px) {
+    
+    span.dexc_slid {
+        display: none;
+    }
+    
+    span.dexc_mob {
+        display: block;
+    }
+    
+    }
+    
+    
+    @media screen and (max-width: 1366px) {
+    
+    .container {
+        width: 100%;
+    }
+    
+    .info__wrap {
+        flex-wrap: wrap;
+    }
+    
+    .info__wrap {
+        flex-wrap: wrap;
+    }
+    
+    .info__left {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    
+    .info__right {
+        width: 100%;
+    }
+    
+    .catalog__tit {
+        width: 50%;
+    }
+    
+    .map__menu {
+        width: 552px;
+        padding: 60px 20px;
+    }
+    
+    .map__wrpas {
+        margin-bottom: 385px;
+    }
+    
+    span.desc {
+        display: none;
+    }
+    
+    span.mob {
+        display: block;
+    }
+    
+    .consul__right {
+        width: 50%;
+    }
+    
+    .consul__left {
+        width: 50%;
+    }
+    
+    ul.foot__menu {
+        flex-wrap: wrap;
+    }
+    
+    .foot__logo {
+        margin-right: 100px;
+    }
+    
+    a.phone__is {
+        width: 16%;
+    }
+    
+    .catolog__wrap {
+        padding: 120px 20px;
+    }
+    
+    .calog__bls {
+        width: 23%;
+    }
+    
+    span.dexc_slid {
+        display: none;
+    }
+    
+    span.dexc_mob {
+        display: block;
+    }
+    
+    }
+    
+    
+    @media screen and (max-width: 1366px) {
+    
+    }
+    
+    
+    /* стили для md-устройств */
+    @media screen and (max-width: 1200px) {
+    
+    }
+    
+    
+    /* стили для sm-устройств */
+    @media screen and (max-width: 1024px) {
+    
+      
+    }
+    
+    /* стили для sm-устройств */
+    @media screen and (max-width: 992px) {
+    
+      
+    }
+    
+    
+    /* Ipad*/ 
+    @media screen and (max-width: 768px) {
+    
+    }
+    
+    
+    /* Ipad mini*/ 
+    @media screen and (max-width: 640px) {
+    
+    }
+    
+    /* Galaxy S8+*/ 
+    @media screen and (max-width: 480px) {
+      
+    }
+    
+    /* Galaxy*/ 
+    @media screen and (max-width: 415px) {
+      
+    }
+    
+    
+    /* Iphone 6.7.8 */ 
+    @media screen and (max-width: 375px) {
+    
+    }
+    
+    /* Iphone 5.5SE */ 
+    @media screen and (max-width: 320px) {
+    
+    }
